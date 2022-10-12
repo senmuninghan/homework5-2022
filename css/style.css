@@ -5,6 +5,7 @@
 
 #logo {
     animation-name:mymove;
+    animation-duration: 5s;
 }
 
 body {
