@@ -99,6 +99,10 @@ a, a:visited, a:hover,a:active{
         background-color:#f1f1f1;
     }
 
+    nav{
+        width:100%;
+    }
+
     .nav_links{
         display:flex;
         flex-direction:row;
@@ -123,7 +127,6 @@ a, a:visited, a:hover,a:active{
     .card li:nth-child(2)::after{
         content:"👍"
     }
-
   }
 
 
