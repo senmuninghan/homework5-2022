@@ -82,8 +82,8 @@ a, a:visited, a:hover,a:active{
         flex-basis:275px;
     }
 
-    body header:first-child{
-        position:sticky;
+    header:not(main *){
+        position:sticky;top:0;
     }
 
 }
